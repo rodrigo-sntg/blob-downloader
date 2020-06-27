@@ -1,0 +1,3 @@
+# pip install -r requirements.txt
+ffmpeg==1.4          
+ffmpeg-python==0.2.0
